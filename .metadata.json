@@ -1,5 +1,8 @@
 [
   {
+    "package": "centrifugeR"
+  },
+  {
     "package": "mbRes"
   }
 ]
