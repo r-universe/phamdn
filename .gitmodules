@@ -13,3 +13,8 @@
 	url = https://github.com/phamdn/mbres
 	shallow = true
 	registered = true
+[submodule "peramo"]
+	path = peramo
+	url = https://github.com/phamdn/peramo
+	shallow = true
+	registered = true
