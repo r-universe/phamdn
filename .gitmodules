@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "centrifugeR"]
+	path = centrifugeR
+	url = https://github.com/phamdn/centrifuger
+	shallow = true
+	registered = true
 [submodule "mbRes"]
 	path = mbRes
 	url = https://github.com/phamdn/mbres
@@ -11,10 +16,5 @@
 [submodule "peramo"]
 	path = peramo
 	url = https://github.com/phamdn/peramo
-	shallow = true
-	registered = true
-[submodule "centrifugeR"]
-	path = centrifugeR
-	url = https://github.com/phamdn/centrifuger
 	shallow = true
 	registered = true
