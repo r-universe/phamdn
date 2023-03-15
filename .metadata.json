@@ -1,11 +1,14 @@
 [
   {
-    "package": "centrifugeR"
+    "package": "mbRes",
+    "oncran": true
   },
   {
-    "package": "mbRes"
+    "package": "peramo",
+    "oncran": true
   },
   {
-    "package": "peramo"
+    "package": "centrifugeR",
+    "oncran": true
   }
 ]
