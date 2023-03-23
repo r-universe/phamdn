@@ -8,6 +8,11 @@
 	url = https://github.com/phamdn/centrifuger
 	shallow = true
 	registered = true
+[submodule "GPIC"]
+	path = GPIC
+	url = https://github.com/cran/GPIC
+	shallow = true
+	registered = true
 [submodule "mbRes"]
 	path = mbRes
 	url = https://github.com/phamdn/mbres
