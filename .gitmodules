@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "centrifugeR"]
-	path = centrifugeR
-	url = https://github.com/phamdn/centrifuger
 [submodule "GPIC"]
 	path = GPIC
 	url = https://github.com/cran/GPIC
+[submodule "centrifugeR"]
+	path = centrifugeR
+	url = https://github.com/phamdn/centrifuger
 [submodule "mbRes"]
 	path = mbRes
 	url = https://github.com/phamdn/mbres
